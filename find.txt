@@ -1,0 +1,10 @@
+//This project will translate British English to American English
+Eg:
+this colour is blue.
+there is no black colour here.
+the labour is in centre of the party.
+our organisation realise that your advice is so true.
+encyclopaedia are types of references.
+He was paralysed since last year. 
+Complexion
+analogue
